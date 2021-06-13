@@ -1,4 +1,4 @@
-# This sample project is developed using [bootstrap](https://getbootstrap.com/) and [react](https://reactjs.org/)
+# This sample project is developed using [bootstrap](https://getbootstrap.com/), [react](https://reactjs.org/) and [react-bootstrap](https://react-bootstrap.netlify.app/)
 
 ## Steps to get started:
 
@@ -34,7 +34,7 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 
-# After building the project can be served using
+# After building the project it can be served using
 ## [http-server](https://www.npmjs.com/package/http-server)
 - http-server build
 
